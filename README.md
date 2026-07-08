@@ -1,57 +1,87 @@
-# IDX Exchange Data Analyst Project
+# IDX Exchange – Data Analyst Internship
 
-This project analyzes California MLS listing and sold property datasets to identify housing market trends, pricing patterns, inventory movement, and competitive market insights.
+## Overview
 
-## Project Overview
+This repository showcases selected technical work completed during my **Data Analyst Internship at IDX Exchange**.
 
-The goal of this project is to clean, transform, and analyze MLS listing and transaction data using Python, then develop market insights and dashboard-ready datasets for visualization in Tableau.
+Throughout the internship, I worked with California MLS listing and transaction datasets to clean, validate, transform, and analyze housing market data using Python. The workflow supported housing market analysis, feature engineering, data quality validation, and preparation of datasets for Tableau dashboards and business reporting.
+
+---
+
+## Internship Responsibilities
+
+- Clean and transform MLS listing and transaction datasets using Python
+- Validate data quality and identify inconsistencies
+- Engineer housing market features and metrics
+- Perform exploratory data analysis (EDA)
+- Detect and investigate data outliers
+- Prepare Tableau-ready datasets for business reporting
+
+---
 
 ## Repository Structure
 
-## Workflow / Pipeline
-1. Data Collection
-- Download MLS listed and sold property datasets.
-- Organize raw files by month and dataset type.
+```text
+analysis.ipynb                 # Exploratory data analysis notebook
+analysis.py                    # Analysis script
+week1_aggregation.py           # Data aggregation
+week6_feature_engineering.py   # Feature engineering
+week7_outlier_detection.py     # Outlier detection
+data_validation.py             # Data validation
+mortgage_rate_enrichment.py    # Mortgage rate enrichment
+README.md
+```
 
-2. Data Cleaning
-- Standardize column names and formats.
-- Handle missing values, duplicates, and inconsistent records.
-- Filter relevant property types and geographic regions.
-Data Validation
-Check row counts, missing values, price ranges, and date consistency.
-Identify unusual or invalid records before analysis.
-Feature Engineering
-Create housing market metrics such as:
-Median sale price
-Average days on market
-Close-to-list price ratio
-New listings count
-Sold listings count
-Add enriched features such as mortgage rate context.
-Outlier Detection
-Identify extreme values in price, living area, lot size, and market activity.
-Review outliers to improve data quality and analysis reliability.
-Exploratory Data Analysis
-Analyze pricing trends, inventory movement, and market competitiveness.
-Compare listed vs. sold properties across time periods.
-Visualization
-Prepare cleaned and aggregated datasets for Tableau dashboards.
-Build dashboards to communicate housing market trends and competitive insights.
-Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
-Jupyter Notebook
-Tableau
-Git/GitHub
-Key Outputs
-Cleaned MLS datasets
-Aggregated market metrics
-Feature-engineered analysis files
-Outlier detection results
-Tableau-ready datasets
-Housing market trend dashboards
-Notes
+---
 
-Raw MLS data files are not included in this repository due to file size and data access restrictions.
+## Technical Workflow
+
+### Data Collection
+- Obtain MLS listing and sold datasets
+- Organize monthly housing market data
+
+### Data Cleaning
+- Standardize data formats
+- Handle missing values and duplicates
+- Filter relevant residential property records
+
+### Data Validation
+- Verify data completeness and consistency
+- Review pricing and date anomalies
+
+### Feature Engineering
+- Generate housing market metrics
+- Enrich datasets with mortgage rate information
+
+### Outlier Detection
+- Identify abnormal pricing and property records
+- Improve downstream analysis quality
+
+### Exploratory Data Analysis
+- Analyze pricing trends
+- Examine housing inventory
+- Compare listed and sold properties
+
+### Dashboard Preparation
+- Prepare clean datasets for Tableau visualization
+- Support housing market reporting and business insights
+
+---
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Tableau
+- Git & GitHub
+
+---
+
+## Repository Notes
+
+- Raw MLS datasets are excluded due to licensing and confidentiality restrictions.
+- Proprietary preprocessing scripts have been removed from the public repository.
+- This repository highlights selected analytical workflows and technical deliverables completed during the internship.
