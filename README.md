@@ -90,10 +90,6 @@ README.md
 - Identify abnormal pricing and property records
 - Improve downstream analysis quality
 
-### Exploratory Data Analysis
-- Analyze pricing trends
-- Examine housing inventory
-- Compare listed and sold properties
 
 ### Dashboard Preparation
 - Prepare clean datasets for Tableau visualization
