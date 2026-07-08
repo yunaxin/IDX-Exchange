@@ -8,12 +8,36 @@ Throughout the internship, I worked with California MLS listing and transaction 
 
 ---
 
-## Interactive Dashboard
+## Interactive Tableau Dashboard
 
-**View the Tableau Dashboard:**  
-https://public.tableau.com/...
+### IDX Market Analysis Dashboard
 
-This interactive dashboard showcases housing market trends, pricing patterns, inventory movement, and competitive market insights developed during my internship.
+Analyzes key housing market trends through interactive visualizations, including:
+
+- Monthly Median Close Price
+- Average Days on Market (DOM)
+- Close-to-List Price Ratio
+- New Listings
+- Closed Sales
+- Median Sold Price by County
+
+**View Dashboard:**  
+*<Insert Tableau Public Link>*
+
+---
+
+### IDX Competitive Analysis Dashboard
+
+Provides competitive market insights through interactive visualizations, including:
+
+- Top Listing Agents
+- Top Listing Offices
+- Median Close Price by ZIP Code
+- Homes Sold by ZIP Code
+- Competitive Office Analysis
+
+**View Dashboard:**  
+*<Insert Tableau Public Link>*
 
 ---
 
