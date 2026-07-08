@@ -8,6 +8,15 @@ Throughout the internship, I worked with California MLS listing and transaction 
 
 ---
 
+## Interactive Dashboard
+
+**View the Tableau Dashboard:**  
+https://public.tableau.com/...
+
+This interactive dashboard showcases housing market trends, pricing patterns, inventory movement, and competitive market insights developed during my internship.
+
+---
+
 ## Internship Responsibilities
 
 - Clean and transform MLS listing and transaction datasets using Python
@@ -15,14 +24,14 @@ Throughout the internship, I worked with California MLS listing and transaction 
 - Engineer housing market features and metrics
 - Perform exploratory data analysis (EDA)
 - Detect and investigate data outliers
-- Prepare Tableau-ready datasets for business reporting
+- Develop interactive Tableau dashboards and prepare reporting datasets to communicate housing market insights.
 
 ---
 
 ## Repository Structure
 
 ```text
-analysis.ipynb                 # Exploratory data analysis notebook
+analysis.ipynb                 # Preliminary EDA notebook
 analysis.py                    # Analysis script
 week1_aggregation.py           # Data aggregation
 week6_feature_engineering.py   # Feature engineering
