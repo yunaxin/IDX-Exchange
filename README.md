@@ -48,7 +48,7 @@ Provides competitive market insights through interactive visualizations, includi
 - Engineer housing market features and metrics
 - Perform exploratory data analysis (EDA)
 - Detect and investigate data outliers
-- Develop interactive Tableau dashboards and prepare reporting datasets to communicate housing market insights.
+- Develop interactive Tableau dashboards and prepare reporting datasets to communicate housing market insights
 
 ---
 
