@@ -10,7 +10,7 @@ Throughout the internship, I worked with California MLS listing and transaction 
 
 ## Interactive Tableau Dashboard
 
-### IDX Market Analysis Dashboard
+### Market Analysis Dashboard
 
 Analyzes key housing market trends through interactive visualizations, including:
 
@@ -26,7 +26,7 @@ Analyzes key housing market trends through interactive visualizations, including
 
 ---
 
-### IDX Competitive Analysis Dashboard
+### Competitive Analysis Dashboard
 
 Provides competitive market insights through interactive visualizations, including:
 
