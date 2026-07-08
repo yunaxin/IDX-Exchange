@@ -21,8 +21,7 @@ Analyzes key housing market trends through interactive visualizations, including
 - Closed Sales
 - Median Sold Price by County
 
-**View Dashboard:**  
-*<https://public.tableau.com/views/IDXMarketAnalysisDashboard/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>*
+**[View Dashboard](https://public.tableau.com/views/IDXMarketAnalysisDashboard/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -36,7 +35,7 @@ Provides competitive market insights through interactive visualizations, includi
 - Homes Sold by ZIP Code
 - Competitive Office Analysis
 
-View Dashboard(https://public.tableau.com/shared/337FSQTRT?:display_count=n&:origin=viz_share_link)
+**[View Dashboard](https://public.tableau.com/shared/337FSQTRT?:display_count=n&:origin=viz_share_link)**
 
 ---
 
